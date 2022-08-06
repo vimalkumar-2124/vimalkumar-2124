@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vimalkumar-2124
 - 👀 I’m interested in Full Stack Developer
-- 🌱 I’m currently learning Full Stack Developer 
+- 🌱 I’m currently working as a Full Stack Developer
 - 📫 How to reach me mdjohnvimal@gmail.com
 
 <!---
